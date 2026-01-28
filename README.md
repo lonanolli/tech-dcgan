@@ -44,3 +44,7 @@ python train.py \
   --seed 0 \
   --out-dir outputs/run1
 ```
+
+
+<img width="1182" height="161" alt="image" src="https://github.com/user-attachments/assets/041c46a1-a316-471a-9aae-697635290d74" />
+
